@@ -6,3 +6,12 @@ W ramach projektu został w języku VHDL zaprojektowany układ który na wejści
 który jest przez niego szyfrowany szyfrem TEA, a następnie kodowany kodem TEA. Na wyjściu w celu dokonania
 sprawdzenia przeprowadzane są operacje odwrotne. 
 
+Wykonanie Michał Ryszka  Luty 2020
+
+[ENG]
+
+Project created for university subject UCYF.
+
+Created by Michał Ryszka February 2020
+
+
