@@ -2,9 +2,9 @@
 
 [PL]\
 Projekt stworzony na przedmiot UCYF w grupie projektowej: Michał Ryszka, Wojciech Kowalski, Mateusz Winnicki i Jakub Sokalski.
-W ramach projektu został w języku VHDL zaprojektowany układ który na wejściu podawany ma 64 bitowy wyraz, 
-który jest przez niego szyfrowany szyfrem TEA, a następnie kodowany kodem TEA. Na wyjściu w celu dokonania
-sprawdzenia przeprowadzane są operacje odwrotne. 
+W ramach projektu w języku VHDL został zaprojektowany układ który na wejściu oczekuje na 64 bitowy wyraz, 
+który jest przez niego szyfrowany szyfrem TEA, a następnie kodowany kodem Hamminga. Na wyjściu w celu dokonania
+sprawdzenia przeprowadzane są operacje odwrotne. Dokładne sprawozdanie z projektu znajduje się [tu](-VHDL-Cipher-Decipher-TEA-and-Decoder-Encoder-Hamminng-/UCYF_PROJEKT_Ryszka_Kowalski_Winnicki_Sokalski.pdf)
 
 [ENG]
 
